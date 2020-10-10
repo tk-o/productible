@@ -1,0 +1,26 @@
+{
+  "name": "productible-experiments",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tomasz Kopacki",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha",
+    "build": "waffle"
+  },
+  "devDependencies": {
+    "@nomiclabs/buidler": "^1.4.7",
+    "@nomiclabs/buidler-ethers": "^2.0.2",
+    "@nomiclabs/buidler-waffle": "^2.0.0",
+    "@openzeppelin/contracts": "^3.2.0",
+    "@types/chai": "^4.2.13",
+    "@types/mocha": "^8.0.3",
+    "@types/node": "^14.11.8",
+    "chai": "^4.2.0",
+    "ethereum-waffle": "^3.1.1",
+    "ethers": "^5.0.17",
+    "mocha": "^8.1.3",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3"
+  }
+}

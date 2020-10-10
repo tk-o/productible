@@ -1,0 +1,7 @@
+{
+  "extension": ["ts"],
+  "require": ["@nomiclabs/buidler/register"],
+  "mochaExplorer.files": "test/**/*.{j,t}s",
+  "timeout": 20000,
+  "recursive": "test"
+}
